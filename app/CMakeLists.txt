@@ -24,8 +24,8 @@ add_library(
     src/main/cpp/cunits/MyComputeUnit.cpp
 )
 
-add_subdirectory(libs/meta/frontend)
-include_directories(libs/meta/frontend)
+add_subdirectory(libs/meta-frontend)
+include_directories(libs/meta-frontend)
 
 target_link_libraries(
     # Specifies the target library.
