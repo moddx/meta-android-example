@@ -1,0 +1,14 @@
+{
+  "host": "127.0.0.1",
+  "port": 5672,
+
+  "exchange": "meta.deployment",
+  "read_queue": "meta.deployment.compiled",
+  "read_routing_key": "compiled",
+
+  "write_queue": "meta.deployment.finished",
+  "write_routing_key": "finished",
+
+  "user": "guest",
+  "password": "guest"
+}

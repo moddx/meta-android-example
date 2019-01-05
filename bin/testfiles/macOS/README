@@ -1,0 +1,8 @@
+The .ll files in this directory have been generated with an older version of the
+core library. Therefore these files won't link on a recent META-Backend version.
+
+The files only serve an illustrative purpose.
+They can easily be recreated on a macOS machine.
+
+The 'old' core library used a different signature for the ComputeData::compute()
+function. Everything else should be the same.
