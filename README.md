@@ -1,4 +1,4 @@
-#meta-android-example
+# meta-android-example
 
 This is an example on how to integrate the frontend-library into an app.
 

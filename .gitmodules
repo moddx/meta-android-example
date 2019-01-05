@@ -7,3 +7,5 @@
 [submodule "app/libs/meta-frontend"]
 	path = app/libs/meta-frontend
 	url = https://bitbucket.org/mervens/meta-frontend
+[submodule "core"]
+	url = https://github.com/moddx/meta-core
