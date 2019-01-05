@@ -1,11 +1,3 @@
-[submodule "app/libs/meta/shared_libs/backcurl"]
-	path = app/libs/meta/shared_libs/backcurl
-	url = https://github.com/Taymindis/backcurl
-[submodule "app/libs/meta/backend/libs/amqpcpp"]
-	path = app/libs/meta/backend/libs/amqpcpp
-    url = https://github.com/moddx/amqpcpp
 [submodule "app/libs/meta-frontend"]
 	path = app/libs/meta-frontend
-	url = https://bitbucket.org/mervens/meta-frontend
-[submodule "core"]
-	url = https://github.com/moddx/meta-core
+	url = https://github.com/moddx/meta-frontend
