@@ -35,7 +35,7 @@ Java_org_tuxship_cpptest_MainActivity_scheduleJNI(JNIEnv *env, jobject instance,
     // do the computations
     ComputeUnit *computeUnit = new MyComputeUnit();
     Distributor distributor = Distributor(computeUnit,
-            "192.168.2.107:4300", "a4f202ec79d9be281e5e44e15ec75fa8");
+            "192.168.2.107:4300", "0dd1aa4e374077feac5669643c4bc1e4");
     distributor.distribute(&dataSource);
 
     // get results
